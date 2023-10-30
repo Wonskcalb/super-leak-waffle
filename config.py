@@ -7,5 +7,5 @@ DATABASE = {
     "username": "gitguardian",
     "password": "db-vN3t7XEXnZQ38e6f",
     "port": 5432,
-    "host": "https://dev.null.gitguardian.doesnt.exi.st"
+    "host": "https://null.gitguardian.doesnt.exi.st"
 }
